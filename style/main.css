@@ -1,0 +1,28 @@
+p
+{
+	color: red;
+	font-size: 10px;
+}
+p
+{
+	color: blue;
+	font-size: 20px;
+}
+#messi
+{
+	color: green;
+	font-size: 40px;
+}
+a
+{
+	color: black;
+}
+a:hover
+{
+	color: red;
+	background: black;
+}
+a:visited
+{
+	color: blue;
+}
